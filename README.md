@@ -5,6 +5,7 @@ I am a dedicated **Backend Engineer & Software Architect** with a strong focus o
 
 ## ⚙️ What I'm working on
 *   Developing enterprise-level APIs with strict Clean Architecture rules.
+*   Building dynamic, state-driven frontends using React and Redux Toolkit.
 *   Integrating fast and responsive user interfaces with Vite and Tailwind.
 *   Automating and testing endpoints efficiently.
 *   In-Memory Caching & Distributed Caching (Redis) in ASP.NET Core.
@@ -55,6 +56,6 @@ I am a dedicated **Backend Engineer & Software Architect** with a strong focus o
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=realamirsalar&show_icons=true&theme=radium&hide_border=true" alt="Amirsalar's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realamirsalar&layout=compact&theme=radium&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=realamirsalar&show_icons=true&theme=radium&hide_border=true&v=1" alt="Amirsalar's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realamirsalar&layout=compact&theme=radium&hide_border=true&v=1" alt="Top Languages" />
 </div>
