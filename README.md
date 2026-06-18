@@ -18,6 +18,12 @@ I am a dedicated **Backend Engineer & Software Architect** with a strong focus o
 - 🌐 **Portfolio:** [amiresalar.ir](https://amiresalar.ir)
 
 ---
+🔗Ways Of Communication
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/amiresalar)
+[![Website](https://img.shields.io/badge/Website-121013?style=for-the-badge&logo=google-chrome&logoColor=white)](https://amiresalar.ir)
+
+---
 
 ### 💻 Tech Stack & Tools
 
