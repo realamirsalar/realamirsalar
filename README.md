@@ -10,10 +10,10 @@ I am a dedicated **Backend Engineer & Software Architect** with a strong focus o
 *   Automating and testing endpoints efficiently.
 *   In-Memory Caching & Distributed Caching (Redis) in ASP.NET Core.
 
-- 🏗️ **Core Focus:** Clean Architecture, CQRS, DDD, Caching, and Repository Patterns in ASP.NET Core.
-- 💻 **Other Backend Skills:** JWT & .NET Identity, MediatR, FluentValidation, Entity Framework Core, .NET Framework 4.8 ,  
+- 🏗️ **Core Focus:** Clean Architecture, Authentication & Authorization, CQRS, DDD, Caching, and Repository Patterns in ASP.NET Core.
+- 💻 **Other Backend Skills:** JWT & .NET Identity, MediatR, FluentValidation, Entity Framework Core, .NET Framework 4.8.  
 - ⚛️ **Frontend Enthusiast:** Building dynamic and responsive UIs using modern React, Vite, and Redux Toolkit.
-- 🚀 **Currently Exploring:** Advanced state management with RTK Query and migrating legacy systems to .NET 10.
+- 🚀 **Currently Exploring:** Building React Applications And Advanced state management with RTK Query.
 - 🔨 **Tools:** Visual Studio, VS Code, Git, Plesk Hosting
 - 🌐 **Portfolio:** [amiresalar.ir](https://amiresalar.ir)
 
@@ -33,6 +33,8 @@ I am a dedicated **Backend Engineer & Software Architect** with a strong focus o
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-FFFFFF?style=for-the-badge&logoColor=black)
 ![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![ASP.NET Core Identity](https://img.shields.io/badge/ASP.NET_Identity-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Fluent API](https://img.shields.io/badge/Fluent_API-008080?style=for-the-badge&logoColor=white)
