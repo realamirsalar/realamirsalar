@@ -1,7 +1,7 @@
 # Hi there, I'm Amirsalar! 👋
 
 ### 👨‍💻 About Me
-I am a dedicated **Backend Engineer & Software Architect** with a strong focus on building scalable, maintainable, and high-performance applications. I specialize in the **.NET ecosystem** and have a deep passion for implementing robust architectural patterns. 
+I am a dedicated **Backend Engineer** with a strong focus on building scalable, maintainable, and high-performance applications. I specialize in the **.NET ecosystem** and have a deep passion for implementing robust architectural patterns. 
 
 ## ⚙️ What I'm working on
 *   Developing enterprise-level APIs with strict Clean Architecture rules.
